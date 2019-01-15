@@ -1,14 +1,6 @@
 ﻿README
 
-
-AndrewID: kmaharsh, Section: D
-
-
-Project Name: Note-orious
-
-
 Required modules for the application:
-
 
 Tkinter
 NLTK (Natural Language Toolkit)
@@ -33,19 +25,9 @@ The requests module is needed for punctuating the raw, unpunctuated text receive
 os is used for saving/renaming/copying the contents of the chosen audio file to upload.
 word2number is used to assist in conversion of Math while speaking to numbers and mathematical operators. 
 
-
-
-
 In order to run the application on a computer, import the modules mentioned above. *Note that the longest, main drawing and declaring main list file with 800 lines in the application is ‘wholeTryWithImg’.
 
-
 The output of the program is in the form of a postscript file that is saved to the computer and directly opened by the default pdf viewer as pdf.  
-
-
-
-
-
-
 
 
 Project Description: The application ‘Note-orious’ :
